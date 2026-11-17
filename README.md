@@ -137,7 +137,8 @@ It displays important business metrics, monthly growth comparisons, city tier di
 
 **Myntra Sales Overview Dashboard**
 
-![Sales Overview Dashboard](Asets/Dashboard Image/Page_1.png)
+![Sales Overview Dashboard](Asets/Dashboard%20Image/Page_1.png)
+
 
 ### 4. Outcome of Part A
 
@@ -170,7 +171,7 @@ It helps identify popular products, understand product demand, and compare reven
 
 **Myntra Product Overview Dashboard**
 
-![Product Overview Dashboard](Asets/Dashboard Image/Page_2.png)
+![Product Overview Dashboard](Asets/Dashboard%20Image/Page_2.png)
 
 ### 4. Outcome of Part B
 
