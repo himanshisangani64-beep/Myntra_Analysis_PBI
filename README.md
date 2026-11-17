@@ -137,7 +137,7 @@ It displays important business metrics, monthly growth comparisons, city tier di
 
 **Myntra Sales Overview Dashboard**
 
-![Sales Overview Dashboard](Images/Sales_Overview.png)
+![Sales Overview Dashboard](Asets/Dashboard Image/Page_1.png)
 
 ### 4. Outcome of Part A
 
@@ -170,7 +170,7 @@ It helps identify popular products, understand product demand, and compare reven
 
 **Myntra Product Overview Dashboard**
 
-![Product Overview Dashboard](Images/Product_Overview.png)
+![Product Overview Dashboard](Asets/Dashboard Image/Page_2.png)
 
 ### 4. Outcome of Part B
 
@@ -180,20 +180,10 @@ The Product Overview Dashboard provides a detailed understanding of product dist
 
 ## 🎥 Dashboard Walkthrough & Demonstration
 
-Explore the Myntra Sales & Product Analysis Dashboard through an interactive Power BI report.
+Explore the Superstore Sales Analysis Dashboard through a comprehensive video walkthrough showcasing the data visualization, interactive reporting features, and key business insights developed using Microsoft Power BI.
 
-The dashboard demonstrates:
+[**View the Full Project Walkthrough**](https://drive.google.com/file/d/1HuMVAIKDZnegWLubKfNacI-cFNs8HGyK/view?usp=drive_link)
 
-- Sales performance and revenue analysis.
-- Order growth comparison.
-- Brand-wise and category-wise analysis.
-- City tier revenue and order distribution.
-- Gender-wise product distribution.
-- Top 10 products by revenue.
-- Order status analysis.
-- Interactive slicers and page navigation.
-
-**Dashboard Walkthrough:** [https://drive.google.com/drive/folders/19q2HQ0xOU4L8NlWDkpXn4RSf9l-6sagC?usp=drive_link]
 
 ---
 
