@@ -7,21 +7,19 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 
 ## 📋 Table of Contents
 
-| No. | Section |
-|---|---|
-| 01 | [📌 Project Overview](#-project-overview) |
-| 02 | [🎯 Problem Statement](#-problem-statement) |
-| 03 | [✨ Key Features](#-key-features) |
-| 04 | [🔄 Project Workflow](#-project-workflow) |
-| 05 | [🅰️ Part A — Sales Overview Dashboard](#-part-a--sales-overview-dashboard) |
-| 06 | [🅱️ Part B — Product Overview Dashboard](#-part-b--product-overview-dashboard) |
-| 07 | [🎥 Dashboard Walkthrough & Demonstration](#-dashboard-walkthrough--demonstration) |
-| 08 | [📈 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis) |
-| 09 | [🔍 Business Insights](#-business-insights) |
-| 10 | [🛠️ Tech Stack](#️-tech-stack) |
-| 11 | [🏆 Advantages](#-advantages) |
-| 12 | [🙏 Acknowledgements](#-acknowledgements) |
-| 13 | [👩‍💻 About the Author](#-about-the-author) |
+- [📌 Project Overview](#-project-overview)
+- [🎯 Problem Statement](#-problem-statement)
+- [✨ Key Features](#-key-features)
+- [🔄 Project Workflow](#-project-workflow)
+- [🅰️ Part A — Data Cleaning & Transformation](#-part-a--data-cleaning--transformation)
+- [🅱️ Part B — Sales Analysis Dashboard](#-part-b--sales-analysis-dashboard)
+- [🎥 Dashboard Walkthrough & Demonstration](#-dashboard-walkthrough--demonstration)
+- [📈 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+- [🔍 Business Insights](#-business-insights)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🏆 Advantages](#-advantages)
+- [🙏 Acknowledgements](#-acknowledgements)
+- [👩‍💻 About the Author](#-about-the-author)
 
 ---
 
