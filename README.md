@@ -7,7 +7,7 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 
 ## 📋 Table of Contents
 
-| No. | Section | 
+| No. | Section |
 |---|---|
 | 01 | [📌 Project Overview](#-project-overview) |
 | 02 | [🎯 Problem Statement](#-problem-statement) |
