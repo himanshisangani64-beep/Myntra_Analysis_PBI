@@ -193,7 +193,7 @@ The dashboard demonstrates:
 - Order status analysis.
 - Interactive slicers and page navigation.
 
-**Dashboard Walkthrough:** [Add Your Video Link Here]
+**Dashboard Walkthrough:** [https://drive.google.com/drive/folders/19q2HQ0xOU4L8NlWDkpXn4RSf9l-6sagC?usp=drive_link]
 
 ---
 
