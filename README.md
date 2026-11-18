@@ -13,7 +13,7 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 | 02 | [🎯 Problem Statement](#-problem-statement) |
 | 03 | [✨ Key Features](#-key-features) |
 | 04 | [🔄 Project Workflow](#-project-workflow) |
-| 05 | [🅰️ PartA Sales Overview](#-parta-sales-overview) |
+| 05 | [PartA Sales Overview](#-parta-sales-overview) |
 | 06 | [🅱️ PartB Product Overview](#-partb-product-overview) |
 | 07 | [🎥 Dashboard Walkthrough & Demonstration](#-dashboard-walkthrough--demonstration) |
 | 08 | [📈 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis) |
@@ -110,7 +110,7 @@ The project focuses on the following business questions:
 
 ---
 
-## 🅰️ PartA Sales Overview
+## PartA Sales Overview
 
 ### 1. Overview
 
