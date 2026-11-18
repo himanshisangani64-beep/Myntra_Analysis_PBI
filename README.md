@@ -13,8 +13,8 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 | 02 | [🎯 Problem Statement](#-problem-statement) |
 | 03 | [✨ Key Features](#-key-features) |
 | 04 | [🔄 Project Workflow](#-project-workflow) |
-| 05 | [🅰️ Part A — Sales Overview Dashboard](#-part-a--sales-overview-dashboard) |
-| 06 | [🅱️ Part B — Product Overview Dashboard](#-part-b--product-overview-dashboard) |
+| 05 | [🅰️ Part A Sales Overview](#-part-a-sales-overview) |
+| 06 | [🅱️ Part B  Product Overview](#-part-b-product-overview) |
 | 07 | [🎥 Dashboard Walkthrough & Demonstration](#-dashboard-walkthrough--demonstration) |
 | 08 | [📈 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis) |
 | 09 | [🔍 Business Insights](#-business-insights) |
@@ -111,7 +111,7 @@ The project focuses on the following business questions:
 
 ---
 
-## 🅰️ Part A — Sales Overview Dashboard
+## 🅰️ Part A Sales Overview
 
 ### 1. Overview
 
@@ -147,7 +147,7 @@ The Sales Overview Dashboard helps understand overall order performance, revenue
 
 ---
 
-## 🅱️ Part B — Product Overview Dashboard
+## 🅱️ Part B Product Overview 
 
 ### 1. Overview
 
