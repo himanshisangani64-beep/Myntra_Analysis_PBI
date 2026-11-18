@@ -7,19 +7,14 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 
 ## 📋 Table of Contents
 
-| No. | Section |
-|---|---|
+| No. | Section | 
+|:---:|---|
 | 01 | [📌 Project Overview](#-project-overview) |
 | 02 | [🎯 Problem Statement](#-problem-statement) |
 | 03 | [✨ Key Features](#-key-features) |
 | 04 | [🔄 Project Workflow](#-project-workflow) |
-<<<<<<< HEAD
 | 05 | [🅰️ PartA Sales Overview](#-parta-sales-overview) |
 | 06 | [🅱️ PartB Product Overview](#-partb-product-overview) |
-=======
-| 05 | [🅰️ Part A Sales Overview](#-part-a-sales-overview) |
-| 06 | [🅱️ Part B  Product Overview](#-part-b-product-overview) |
->>>>>>> 519c3da336facfa79c59ae608da418dbb2eead6b
 | 07 | [🎥 Dashboard Walkthrough & Demonstration](#-dashboard-walkthrough--demonstration) |
 | 08 | [📈 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis) |
 | 09 | [🔍 Business Insights](#-business-insights) |
@@ -27,7 +22,6 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 | 11 | [🏆 Advantages](#-advantages) |
 | 12 | [🙏 Acknowledgements](#-acknowledgements) |
 | 13 | [👩‍💻 About the Author](#-about-the-author) |
-
 
 ---
 
@@ -116,11 +110,7 @@ The project focuses on the following business questions:
 
 ---
 
-<<<<<<< HEAD
 ## 🅰️ PartA Sales Overview
-=======
-## 🅰️ Part A Sales Overview
->>>>>>> 519c3da336facfa79c59ae608da418dbb2eead6b
 
 ### 1. Overview
 
@@ -147,8 +137,7 @@ It displays important business metrics, monthly growth comparisons, city tier di
 
 **Myntra Sales Overview Dashboard**
 
-![Sales Overview Dashboard](Asets/Dashboard%20Image/Page_1.png)
-
+![Sales Overview Dashboard](Images/Sales_Overview.png)
 
 ### 4. Outcome of Part A
 
@@ -156,11 +145,7 @@ The Sales Overview Dashboard helps understand overall order performance, revenue
 
 ---
 
-<<<<<<< HEAD
 ## 🅱️ PartB Product Overview 
-=======
-## 🅱️ Part B Product Overview 
->>>>>>> 519c3da336facfa79c59ae608da418dbb2eead6b
 
 ### 1. Overview
 
@@ -185,7 +170,7 @@ It helps identify popular products, understand product demand, and compare reven
 
 **Myntra Product Overview Dashboard**
 
-![Product Overview Dashboard](Asets/Dashboard%20Image/Page_2.png)
+![Product Overview Dashboard](Images/Product_Overview.png)
 
 ### 4. Outcome of Part B
 
@@ -195,10 +180,20 @@ The Product Overview Dashboard provides a detailed understanding of product dist
 
 ## 🎥 Dashboard Walkthrough & Demonstration
 
-Explore the Superstore Sales Analysis Dashboard through a comprehensive video walkthrough showcasing the data visualization, interactive reporting features, and key business insights developed using Microsoft Power BI.
+Explore the Myntra Sales & Product Analysis Dashboard through an interactive Power BI report.
 
-[**View the Full Project Walkthrough**](https://drive.google.com/file/d/1HuMVAIKDZnegWLubKfNacI-cFNs8HGyK/view?usp=drive_link)
+The dashboard demonstrates:
 
+- Sales performance and revenue analysis.
+- Order growth comparison.
+- Brand-wise and category-wise analysis.
+- City tier revenue and order distribution.
+- Gender-wise product distribution.
+- Top 10 products by revenue.
+- Order status analysis.
+- Interactive slicers and page navigation.
+
+**Dashboard Walkthrough:** [Add Your Video Link Here]
 
 ---
 
