@@ -14,15 +14,15 @@ Microsoft Power BI | Data Analytics | Business Intelligence | Data Visualization
 | 02 | [🎯 Problem Statement](#-problem-statement) |
 | 03 | [✨ Key Features](#-key-features) |
 | 04 | [🔄 Project Workflow](#-project-workflow) |
-| 05 | [🅰️ Part A Sales Overview](#-part-a-sales-overview) |
-| 06 | [🅱️ Part B Product Overview](#-part-b-product-overview) |
+| 05 | [📊 Sales Overview](#-sales-overview) |
+| 06 | [📦 Product Overview](#-product-overview) |
 | 07 | [🎥 Dashboard Walkthrough & Demonstration](#-dashboard-walkthrough--demonstration) |
 | 08 | [📈 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis) |
 | 09 | [🔍 Business Insights](#-business-insights) |
 | 10 | [🛠️ Tech Stack](#️-tech-stack) |
 | 11 | [🏆 Advantages](#-advantages) |
 | 12 | [🙏 Acknowledgements](#-acknowledgements) |
-| 13 | [👩‍💻 About the Author](#-about-the-author) |
+| 13 | [👤 Author](#-author) |
 
 ---
 
@@ -111,7 +111,7 @@ The project focuses on the following business questions:
 
 ---
 
-## 🅰️ Part A Sales Overview
+## 📊 Sales Overview
 
 ### 1. Overview
 
@@ -146,7 +146,7 @@ The Sales Overview Dashboard helps understand overall order performance, revenue
 
 ---
 
-## 🅱️ Part B Product Overview
+## 📦 Product Overview
 
 ### 1. Overview
 
@@ -373,7 +373,7 @@ I would like to express my gratitude to everyone and every resource that support
 
 ---
 
-## 👩‍💻 About the Author
+## 👤 Author
 
 **Himanshi Sangani**
 
